@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"cmake.generator": "Ninja"
+		"cmake.generator": "Ninja",
+		"cmake.languageSupport.enableFileAPI": true,
 	}
 }

@@ -1,5 +1,8 @@
 build/
 game_dir/
+game_dir_debug/
 game_dir_requirements/
 .cache/
 *.zip
+.vs/
+out/
